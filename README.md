@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hello, I'm Terry</h1>
+<h1 align="center">Hello, I'm Eva</h1>
 <p align="center">
     <a href="https://github.com/THChen2002/" rel="noreferrer noopener">
         <img src="../data/github-metrics.svg" />
